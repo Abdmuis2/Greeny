@@ -1,0 +1,58 @@
+<resources>
+    <string name="app_name">Android Basic Tutorials</string>
+
+
+    <string name="date">Jakarta - Maskapai penerbangan internasional Cathay Pacific berkomitmen membantu komunitas lokal dalam usaha restorasi habitat lokal serta mendorong ketahanan terhadap perubahan iklim. Caranya dengan menanam 3.000 pohon bakau di Indonesia sebagai bagian rencana penanaman 20.000 pohon bakau di Asia Tenggara.
+        Sebagai tindak lanjut dari inisiatif 1 Ticket, 1 Tree di 20212, proyek ini kemudian diperluas untuk mencakup seluruh Asia Tenggara di 2022. Cathay Pacific berkomitmen untuk menanamkan pohon untuk setiap pembelian tiket yang dilakukan di Indonesia, Filipina, Thailand, Malaysia, Vietnam, Kamboja, dan Singapura.
+        Untuk diketahui Cathay Pacific telah menanam 600 pohon bakau di Indonesia pada tahun 2021. Ini sebagai bagian dari kampanye Join For Trees. Tahun ini, sekitar 30 relawan yang terdiri dari karyawan Cathay Pacific, trade agen, dan relawan Sebumi berkumpul di Taman Wisata Alam, Pantai Indah Kapuk, untuk memulai penanaman 3.000 pohon bakau di Teluk Jakarta yang dilakukan dari kampanye 1 Tiket, 1 Pohon di tahun 2022.
+        "Kami sangat senang dapat melanjutkan penanaman pohon bakau kami di Indonesia untuk mendukung masyarakat lokal, memulihkan habitat lokal, dan mendorong ketahanan iklim. Kami berharap upaya ini akan memicu lebih banyak perbincangan tentang keberlanjutan dan menginspirasi lebih banyak orang untuk bersama-sama melakukan bagian mereka bagi lingkungan," ujar Matthew Choi, Country Manager Cathay Pacific untuk Indonesia
+        Dalam proses restorasi hutan bakau ini, Cathay Pacific bekerjasama dengan organisasi lokal Sebumi.
+        "Sebumi mengapresiasi kegiatan penanaman 3000 bakau oleh Cathay Pacific yang dilakukan di Teluk Jakarta sebagai bentuk nyata dari industri penerbangan dalam usaha membantu masyarakat lokal dalam membangun ketahanan iklim. Sebumi berharap inisiatif 1 ticket 1 tree ini juga dapat menambah kesadaran wisatawan untuk mengambil pilihan aktivitas perjalanan yang lebih bertanggungjawab dan berdampak positif bagi bumi," ujar Iben Yuzenho, founder Sebumi.
+        Sebumi juga berpandangan bahwa kegiatan ini penting bagi pemberdayaan masyarakat lokal melalui pemanfaatan kawasan hutan bakau sebagai destinasi wisata berkelanjutan dan sumber pengembangan produk lokal bernilai ekonomi.
+        </string>
+
+    <string name="rating">A RatingBar is an extension of SeekBar and ProgressBar that shows a rating in stars.
+        The user can touch/drag or use arrow keys to set the rating when using the default size RatingBar.
+        The smaller RatingBar style ( R.attr.ratingBarStyleSmall) and the larger indicator-only style
+        (R.attr.ratingBarStyleIndicator) do not support user interaction and should only be used as indicators.
+        When using a RatingBar that supports user interaction, placing widgets to the left or right of the
+        RatingBar is discouraged.</string>
+
+    <string name="edit">A TextView displays text to the user and optionally allows them to edit it.
+        A TextView is a complete text editor, however the basic class is configured to not allow editing.
+        </string>
+
+    <string name="camera">Yogyakarta, Dosen Fakultas Kehutanan UGM, Dwiko Budi Permadi, mengatakan tentang ancaman deforestasi dalam pembangunan IKN di Kalimantan Utara secara terencana terjadi pada sektor-sektor yang memanfaatkan lahan hutan, mengkonversi serta merubah peruntukan lahan hutan. Pemerintah mengusung konsep IKN kota maju, pintar, hijau, forest city di mana direncanakan 75% IKN adalah kawasan hijau. 
+        "Namun menjadi pertanyaan kritis, karena status 256 ribu hektare itu hutan, jika 75% kawasan hijau, berarti melakukan deforestasi sebesar 30% untuk pembangunan infrastruktur dan sebagainya,” urai Dwiko dalam Fisipol Leadership Forum Live bertajuk Transformasi Kalimantan Timur Sebagai IKN Baru Menuju Masyarakat Hijau yang digelar di Fisipol UGM, Selasa (23/5/2023).
+        Lebih lanjut Dwiko menjelaskan berdasarkan data Bappenas kondisi hutan di kawasan IKN  tidak berada dalam kondisi baik. Dari 256 ribu hektare kawasan hanya 43 persen saja yang berhutan, ini berarti akan terjadi deforestasi yang cukup besar yakni pada 57% kawasan.
+        “Berarti harus meningkatkan forest recovery. Lalu mampukah mentransformasi hutan eukaliptus yang kualitasnya lebih rendah dari primer menjadi hutan tropis yang mampu mensuplai oksigen, biodiversitas, mempertahankan kelestarian hutan dan lainnya?” tuturnya.
+        Sementara itu, berdasar catatan KLHK, keberhasilan kemampuan untuk melakukan rehabilitasi hutan 900 hektare per tahun sangat rendah. Selain itu membutuhkan waktu sekitar 99 tahun untuk bisa mentransformasi hutan IKN menjadi hijau kembali.
+        “Nah itu situasi seperti itu harus kita bagaimana kan? Kami punya teknologi reforestasi close to nature yang sudah dipraktikkan mampu meningkatkan cadangan karbon dari 100 menjadi 200 ton per hektare, tetapi political will dari pemerintah seperti apa untuk ini? Apakah IKN bisa jadi spirit baru untuk mentransformasi?” paparnya.
+        Diterapkan di Semua Kota
+        Lebih lanjut Dwiko pun mengusulkan agar supaya prinsip pembangunan IKN bisa diterapkan di seluruh kota di Indonesia. Menurutnya, guna mewujudkan kota pintar, maju, dan hijau di Indonesia tidak perlu menunggu pembangunan IKN di Kalimantan Timur selesai.
+        “Presiden Jokowi juga perlu meminta semua kota harus memenuhi kriteria IKN. Ini menjadi tantangan para pemimpin di masa depan,” tegasnya.
+        Ia mengatakan bahwa jargon atau prinsip pembangunan IKN bisa diwujudkan di kota-kota Indonesia lainnya. Key Performance Indicator (KPI) untuk IKN dapat diterapkan pada kota-kota saat ini seperti Kota Samarinda, Medan, Surabaya, Yogyakarta dan lainnya.
+        “Kenapa harus menunggu IKN untuk mentransformasi kota kita menjadi lebih livable, lebih ramah lingkungan, dan lebih berkeadilan sosial, ekonomi, dan lingkungan. Itu pertanyaan kami kepada para pemimpin di daerah dan di tingkat pusat,” tuturnya.
+        Sementara Koordinator Gusdurian Peduli, A’ak Abdullah Al Kudus, mengatakan jika upaya rehabilitasi hutan sangat tidak mudah. Hal ini berdasarkan pengalamannya merehabilitasi hutan di Lamongan, Jawa Timur dengan penanaman 10.000 pohon dan sedikit yang mampu bertahan hidup.
+        “Kalau tadi yang dibicarakan Dwiko dari kemampuan KLHK melakukan rehabilitasi itu, kami di Gunung Lemongan menanam 1.000 pohon yang hidup 30 atau 100 pohon saja sudah hebat. Lalu dengan sekitar jutaan hektare jadi apakah mungkin sampai 2045 bisa menjadi hutan lagi?” tanyanya.
+        Ia pun mempertanyakan untuk pembangunan IKN dengan konsep forest city. Apakah nantinya membangun kota dalam hutan, atau hutan dijadikan sebagai kota, atau justru membuat hutan kota?
+        “Katanya 70% nantinya kan jadi RTH. Nah sekarang kawasannya rusak, ada 144 pemegang konsesi tambang jangan-jangan wilayah konsesi diambil sebagai IKN dan diganti di tempat lain akan timbul kerusakan yang sama,” terangnya.
+        </string>
+
+    <string name="recyclerview">Sejumlah warga menanam bibit pohon di lahan kritis Desa Tambak Ukir, Kotaanyar, Kabupaten Probolinggo, Jawa Timur, Selasa (12/12/2023).
+        Lahan kritis tersebut berada di kawasan pegunungan yang tandus dan panas akibat perubahan iklim dan pemanasan global.
+        Kades Tambak Ukir Moh. Tarsan mengatakan, lahan kritis di desanya mencapai 20 hektar. Akibatnya, daerah pegunungan di desanya sudah tidak sejuk lagi, malah cukup panas.
+        “Desa kami butuh banyak penghijauan, seperti melalui penanaman pohon ini,” kata Tarsan.
+        Penanaman pohon tersebut dinilai mampu menyelamatkan dan memulihkan sedikitnya 4 hektar lahan kritis. Karena bibit pohon yang ditanam mencapai seribu batang.
+        “Untuk 16 hektar sisanya, masih kami upayakan penghijauan,” ujar Tarsan.
+        Akibat lahan gersang dan lahan kritis, kerap terjadi kekeringan dan bencana longsor di desanya. Bahkan sempat membuat status desanya menjadi desa tertinggal di Kabupaten Probolinggo.
+        Aksi penanaman pohon ini diikuti sejumlah warga dengan antusias, meski berada di bawah sinar terik matahari.
+        “Di sejumlah titik, kami memberikan bantuan bibit sebanyak 10.000 pohon. Berupa mangrove, tanaman keras dan tanaman buah."
+        "Aksi penghijauan ini bertujuan mengurangi risiko longsor, menjaga ketersedian air, dan memberikan nilai ekonomi bagi warga dari tanaman buah,” kata Senior Manager PLN Nusantara Power UP Paiton Agus Prastyo Utomo saat mengikut aksi penanaman pohon.
+        Agus menambahkan, Desa Tambak Ukir berada di sekitar PLTU Paiton. Desa ini sengaja dipilih menjadi lokai penanaman pohon karena memiliki dataran tinggi yang banyak terdapat lahan kritis.
+        Hal itu menggugah kesadaran pihaknya sehingga turut serta melestarikan lingkungan.
+        “Kami tanam 1.000 pohon pada hari ini sebagai bagian dari penanaman 10.000 pohon yang kami tanam di tahun 2023 di desa lain."
+        "Harapannya, program penghijauan membuat wilayah desa makin Lestari dan hijau. Lahan kritis bisa direduksi sehingga bencana seperti tanah longsor dan kekeringan bisa bekurang."
+        "Ditambah, Presiden RI menetapkan Desember sebagai bulan menanam pohon nasional,” pungkas Agus.
+        </string>
+</resources>
